@@ -1,0 +1,1 @@
+.loadingpage,.loadingpage__img{display:flex;align-items:center;justify-content:center;width:100%;height:100vh}.loadingpage__img{width:50%;flex-direction:column;height:50vh}.loadingpage__img-logo{width:100%;object-fit:cover}.loadingpage__img-gif{width:20%;object-fit:cover}
